@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App33\obj\Debug\netcoreapp3.1\App33.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App33\obj\Debug\netcoreapp3.1\App33.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App33\bin\Debug\netcoreapp3.1\App33.exe
+C:\Users\sergi\source\repos\App33\bin\Debug\netcoreapp3.1\App33.deps.json
+C:\Users\sergi\source\repos\App33\bin\Debug\netcoreapp3.1\App33.runtimeconfig.json
+C:\Users\sergi\source\repos\App33\bin\Debug\netcoreapp3.1\App33.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App33\bin\Debug\netcoreapp3.1\App33.dll
+C:\Users\sergi\source\repos\App33\bin\Debug\netcoreapp3.1\App33.pdb
+C:\Users\sergi\source\repos\App33\obj\Debug\netcoreapp3.1\App33.dll
+C:\Users\sergi\source\repos\App33\obj\Debug\netcoreapp3.1\App33.pdb
+C:\Users\sergi\source\repos\App33\obj\Debug\netcoreapp3.1\App33.csprojAssemblyReference.cache
